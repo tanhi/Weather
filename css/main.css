@@ -1,0 +1,13 @@
+
+body{
+height: 90vh;
+    background-image: url(../assets/images/fondo.jpg);
+    background-repeat: no-repeat;
+    background-position: bottom;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.bg-info{
+  background-color: white;
+}
